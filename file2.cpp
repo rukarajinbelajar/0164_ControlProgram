@@ -24,5 +24,11 @@ int main()
     cout <<"masukkan nilai Matematika = ";
     cin >> nilMT;
 
-    
+    //rerata = (nilBI+nilMT)/2;
+    //if (rerata >= 60)
+    //   status = "Lolos";
+    //else
+    //    status = "Gagal";
+    //rerata = Rata_rata(nilBI,nilMT);
+    //status = status_lulus(rerata);
 }
