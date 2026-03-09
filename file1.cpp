@@ -13,4 +13,6 @@ int main()
         x = x+1;
         cout << "nilai x sudah dikoreksi menjadi : " <<x<<endl;
     }
+
+    cout << "Bilangan yang diberikan = " <<x;
 }
